@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 [![Howlite's github stats](https://github-readme-stats.vercel.app/api?username=howlite1874&count_private=true&include_all_commits=true&theme=radical)](https://github.com/howlite1874?tab=repositories)
-[![Howlite's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howlite1874&theme=tokyonight&layout=compact)](https://github.com/howlite1874?tab=repositories)
+
  
 
 
