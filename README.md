@@ -23,6 +23,6 @@ Here are some ideas to get you started:
  
 [![Howlite's GitHub stats](https://github-readme-stats.vercel.app/api?
 username=howlite1874&count_private=true&include_all_commits=true&theme=tokyonight)]
-(https://github.com/howlite1874)
+(https://github.com/howlite1874/github-readme-stats)
 
 
