@@ -19,4 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Howlite's GitHub stats](https://github-readme-stats.vercel.app/api?username=howlite1874&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+[![Howlite's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=howlite1874&count_private=true&include_all_commits=true&theme=tokyonight)]
+(https://github.com/howlite1874?tab=repositories)
+
