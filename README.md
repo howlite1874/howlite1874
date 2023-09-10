@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m Chenxin Jiang
-- ✨ I earned bachelor degree in software engineering and master degree in high-performance graphics and games engine.
+- ✨ I earned bachelor degree in software engineering and master degree in high-performance graphics and games engineering.
 - 🔭 I’m currently looking for a job in game industry
 - 📫 How to reach me: howlite1874@gmail.com / +44 07587489732
 - ⚡ My portfolio: https://howlite-portfolio.vercel.app/
